@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @billy-bicep
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning advanced programming concepts via Java and C++
-- 💞️ I’m looking to collaborate on not sure..
+- 🌱 I’m currently learning advanced programming concepts utilizing Java and C++
 - 📫 How to reach me ... mitch.selvig@gmail.com
 
 <!---
